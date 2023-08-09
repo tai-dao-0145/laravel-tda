@@ -1,0 +1,10 @@
+id,name,slug,http_method,http_path,created_at,updated_at
+1,All permission,*,"",*,2022-06-07 12:35:47,2022-06-07 12:35:47
+2,Dashboard,dashboard,GET,/,2022-06-07 12:35:47,2022-06-07 12:35:47
+3,Login,auth.login,"","/auth/login
+/auth/logout",2022-06-07 12:35:47,2022-06-07 12:35:47
+4,User setting,auth.setting,"GET,PUT",/auth/setting,2022-06-07 12:35:47,2022-06-07 12:35:47
+5,Auth management,auth.management,"","/auth/roles
+/auth/permissions
+/auth/menu
+/auth/logs",2022-06-07 12:35:47,2022-06-07 12:35:47

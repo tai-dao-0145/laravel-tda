@@ -1,0 +1,19 @@
+id,parent_id,order,title,icon,uri,permission,created_at,updated_at
+1,0,1,ユーザー,fa-user,users,\N,\N,2022-06-22 12:16:21
+2,0,2,カテゴリー,fa-outdent,/categories,\N,\N,2022-06-22 12:16:21
+3,0,3,本,fa-book,/books,\N,\N,2022-06-22 12:16:21
+4,0,4,注文,fa-shopping-cart,/book-orders,\N,\N,2022-06-22 12:16:21
+5,0,5,設定,fa-cog,\N,*,2023-07-04 00:09:48,2023-07-04 00:11:50
+6,5,6,会社情報,fa-building,settings,*,2023-07-04 00:10:36,2023-07-04 00:11:50
+7,5,7,決済情報,fa-bank,bank-accounts,*,2023-07-04 00:11:39,2023-07-04 00:11:50
+8,5,8,発送料,fa-ship,shipping-fees,*,2023-07-04 00:12:29,2023-07-04 00:12:29
+9,5,9,割引き,fa-arrow-down,discounts,*,2023-07-17 19:16:45,2023-07-17 19:19:11
+10,5,10,代金引換,fa-forward,deferred-fees,*,2023-07-17 18:01:27,2023-07-17 19:26:28
+11,5,11,スライド,fa-image,/slides,\N,\N,2022-06-22 12:16:21
+12,5,12,本の広告,fa-info,/book-ads,\N,\N,2022-06-22 12:16:21
+13,0,13,Admin,fa-tasks,"",\N,\N,2022-06-22 12:16:21
+14,13,14,Users,fa-users,auth/users,\N,\N,2022-06-22 12:16:21
+15,13,15,Roles,fa-user,auth/roles,\N,\N,2022-06-22 12:16:21
+16,13,16,Permission,fa-ban,auth/permissions,\N,\N,2022-06-22 12:16:21
+17,13,17,Menu,fa-bars,auth/menu,\N,\N,2022-06-22 12:16:21
+18,13,18,Operation log,fa-history,auth/logs,\N,\N,2022-06-22 12:16:21

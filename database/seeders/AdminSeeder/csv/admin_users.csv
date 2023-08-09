@@ -1,0 +1,2 @@
+id,username,password,name,avatar,remember_token,created_at,updated_at
+1,admin,$2y$10$Kngzw/OSMPBJ0wheRoXLAeelZoEt.QO96FNW1PNbTG9UQaGiJPl6m,Administrator,\N,YF5QtVO5oc4OrPV8tZr4ApZWarPVfiNcwbMkJ79p7zWnc0dZLz7EBJ5jpjX6,2023-06-15 16:10:43,2023-06-15 16:10:43
